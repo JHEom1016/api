@@ -1,0 +1,13 @@
+Kakao Talk 연동
+
+네이티브 앱 키
+526ca707947604b834d95f0d0e00fd33
+REST API 키
+ac5a9c0291543055cad87985dcaa22db
+JavaScript 키
+a908818168433d345213decfb84b30d5
+Admin 키
+d76e5d49b0d13378531d171bfbb36297
+
+
+
